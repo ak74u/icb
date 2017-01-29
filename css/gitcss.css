@@ -1,0 +1,17 @@
+@charset "UTF-8";
+*{margin: 0; padding: 0;}
+
+.clear:after{ 
+	display: block;
+	content: '';
+	clear: both;
+}
+.img-box{ 
+	border: 1px solid #000;
+}
+.img-box li{ 
+	float: left;
+}
+.img-box li img{ 
+	vertical-align: bottom;
+}
