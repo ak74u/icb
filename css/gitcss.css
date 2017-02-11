@@ -7,7 +7,7 @@
 	clear: both;
 }
 .img-box{ 
-	border: 1px solid #000;
+	border: 2px solid orange;
 }
 .img-box li{ 
 	float: left;
